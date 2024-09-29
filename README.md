@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=25&pause=1000&color=F7D4BD&background=FF170900&width=435&lines=Hello%2C+my+name+is+Maicon+Oliver;I+have+18+yeas+old;I'm+a+fan+game+developer+at+game+jolt+;and+I'm+starting+my+career+as+a+programmer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&size=25&pause=5000&color=F7D4BD&background=FF170900&width=502&height=57&lines=Hello%2C+my+name+is+Maicon+Oliver;I+have+18+yeas+old;I'm+a+fan+game+developer+at+game+jolt+;and+I'm+starting+my+career+as+a+programmer.)](https://git.io/typing-svg)
 
 ## Social 
 
