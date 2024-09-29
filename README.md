@@ -10,6 +10,8 @@
 
 # Status
 
-![MOliveiraDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MOliveiraDev&show_icons=true&theme=radical)
+![MOliveiraDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MOliveiraDev&show_icons=true&theme=dracula)
+
+
 
 
