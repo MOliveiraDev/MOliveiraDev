@@ -12,6 +12,6 @@
 
 ![MOliveiraDev GitHub stats](https://github-readme-stats.vercel.app/api?username=MOliveiraDev&show_icons=true&theme=dracula)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOliveiraDev)](https://github.com/MOliveiraDev/github-readme-stats)
 
 
