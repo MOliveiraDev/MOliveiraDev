@@ -1,10 +1,10 @@
 ## Hello :)
 
-Dev. Back-End
+Dev. Back-End 👨🏻‍💻
 
-Studing Systems Analysis and Development 
+Studing Systems Analysis and Development 🎓💻
 
-Java Development 
+Java Development ☕
 
 #### Social 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maicon.pk3125) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/themankok) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199239195951/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-oliveira-32917b309?)
