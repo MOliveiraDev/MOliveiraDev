@@ -15,5 +15,3 @@ Java Development ☕
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=git&theme=)](https://git-scm.com/) [![My Skills](https://skillicons.dev/icons?i=java&theme=)](https://www.java.com/pt-BR/) [![My Skills](https://skillicons.dev/icons?i=cs&theme=)](https://dotnet.microsoft.com/pt-br/languages/csharp) [![My Skills](https://skillicons.dev/icons?i=spring&theme=)](https://spring.io/projects/spring-boot) [![My Skills](https://skillicons.dev/icons?i=postgresql&theme=)](https://www.postgresql.org/) [![My Skills](https://skillicons.dev/icons?i=redis&theme=)](https://redis.io/docs/latest/) [![My Skills](https://skillicons.dev/icons?i=maven&theme=)](https://maven.apache.org/guides/)
-
-<hr>
