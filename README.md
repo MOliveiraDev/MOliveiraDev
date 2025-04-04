@@ -1,10 +1,13 @@
-## Hello :)
+**Hello :)**
+<hr>
 
 Dev. Back-End 👨🏻‍💻
 
 Studing Systems Analysis and Development 🎓💻
 
 Java Development ☕
+
+<hr>
 
 ### Social 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@maicon.pk3125) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mankoovn?utm_source=qr&igsh=cHNhamVwcXRrdGF0) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/themankok) [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199239195951/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-oliveira-32917b309?)
