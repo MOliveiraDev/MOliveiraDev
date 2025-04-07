@@ -1,4 +1,4 @@
-**Olá Devs, eu sou João Maicon, tenho 18 anos, sou um desenvolvedor Java**
+**Hello Devs. Welcome to my Github**
 <hr>
 
 Dev. Back-End 👨🏻‍💻
