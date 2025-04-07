@@ -1,4 +1,4 @@
-**Hello Devs. Welcome to my Github!**
+**Hello, Welcome to my Github!**
 <hr>
 
 Dev. Back-End 👨🏻‍💻
