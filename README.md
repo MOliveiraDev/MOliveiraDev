@@ -8,7 +8,7 @@ Studing Systems Analysis and Development 🎓💻
 Java Development ☕
 
 
-<p>☁️<a href="https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile">Java Clound Native Certified</a></p>
+<p>☕☁️ <a href="https://www.credly.com/badges/db773eb9-df4c-41f1-a42a-b5b2cd08742e/linked_in_profile">Java Clound Native Certified</a></p>
 
 <hr>
 
